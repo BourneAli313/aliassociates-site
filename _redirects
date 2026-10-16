@@ -1,0 +1,9 @@
+# Old Squarespace pages -> matching sections of the new site
+/about-ali        /?r=about        301
+/services-1       /?r=accounting   301
+/tax-services-1   /?r=tax          301
+/industries       /?r=industries   301
+/careers          /?r=careers      301
+/contact-2        /?r=contact      301
+/contact          /?r=contact      301
+/cart             /                301

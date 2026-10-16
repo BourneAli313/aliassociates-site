@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://aliassociates.ca/sitemap.xml
+Sitemap: https://www.aliassociates.ca/sitemap.xml
